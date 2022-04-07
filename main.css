@@ -1,0 +1,25 @@
+body
+{
+	/* background-color: gray; */
+	background-color: #ccc;
+}
+
+<hr>
+{
+    <height:10px>
+    width:75%;
+    background-color:gray;
+    border-width:0px;
+}
+
+table, td {
+	border-width:1px;
+	border-style:solid ;
+	border-color: black;
+}
+
+table {
+	width: 80%
+	border_collapse:collapse;
+
+}
